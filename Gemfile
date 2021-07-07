@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-gem 'danger'
-gem 'danger-swiftlint'
+gem 'danger', '>= 5.5.11'
+gem 'danger-swiftlint', '>= 0.13.1'
